@@ -49,13 +49,39 @@
 # what do i want to convey through this?
 * why vietnamese fish sauce wings are significant in my life--make you want them
 	* well theyre tasty
+		* I used to think that food was only about sustenance
 	* but they also have emotional value
+* why did I think food was only about sustenance?
+	* I was poor, we took fast food, and I felt wrong to ask for anything better
+	* but at family reunion dinners, I would be reminded of the Vietnamese goodness
 * emotional value--why?
 	* its always at family dinner reunions
+	* and it made me feel comfortable with my complex relationship with the evolving family culture (that stemmed from being Vietnamese)
+* What was complex about it?
+	* I was always comfortable with being Vietnamese,
+		* I just didnt know if i could claim it 
+		* well i only really knew food names, not family names, and i could barely hold a conversation with anyone outside of family
+		* Why does that matter? I was still born Vietnamese, wasn't I?
+	* I worried that if I were to have my own family, the Vietnamese culture would be lost
+		* In today's world, this was so important to me because everyone else seemed to have *their* culture
+		* Yes, my thanksgiving was not the traditional turkey, but likewise my Ethiopian, Indian, and Pakistani friends had their own foods. My hometown is so diverse that I recall reading an article claiming us most diverse city in America, somehow beating New York.
+		* It's funny because generations once worried about not fitting in / being brandished with the "white" "American" expectations, but here I am worried that I'm too "white"
 * why are family dinner reunions important to me?
 	* well sometimes i feel 'white-washed' or disconnected from my Vietnamese heritage
 	* and the dinner reunions motivate me to reconnect with it and acts as that opportunity
 		* afterall, everyone there is Vietnamese
 * why does it matter whether or not i am 'white-washed'?
 	* well it really doesn't; but i didn't realize that beforehand
-	* 
+* what made me realize it doesn't matter?
+	* college app season, the time where asking questions about myself was necessary to discover what made me unique, and a standout character
+		* I don't usually bring up these topics / probing questions, but the heightened  urgency to discover myself made me open up to my family 
+	* once again, family reunion dinner, I had a deep conversation with my aunt
+		* they teach me, i teach them, we create something new for the future
+
+1. food is not just about sustenance (thanks Vietnam flavors)
+	1. popeyes bro, they remember me they remember
+2. it wasn't about fitting in with white people, it was about "losing" my culture
+	1. numba one diversity, but i didn't really know mine
+3. its not losing culture, its evolving the culture
+	* thats what makes it unique
+	* compared to the mass produced popeyes wings, I had my aunt's made-to-dinner vietnamese fish sauce wings
