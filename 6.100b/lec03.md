@@ -8,11 +8,10 @@
 * runtime points can be scattered / have peaks because our generated tests can cause us to be unlucky and not reap benefits of dp 
 * so we should always run multiple trials and look at average result
 
-# tabular knapsack implementation
+	# tabular knapsack implementation
 ![[Screenshot 2026-09-23 at 3.08.14 AM.png]]![[Screenshot 2026-09-23 at 3.08.23 AM.png]]
 * tabular smoother since it will always fill out the table, not based on luck
-* tabular faster since it uses iteration rather than recursion
-
+	* tabular faster since it uses iteration rather than recursion
 # but i thought knapsack was exponential
 * it is, but in the actual size of the input
 	* i.e. the number of bits need to represent the input
